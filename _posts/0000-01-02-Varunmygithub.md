@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
- love
+ love hate 
 Use the left arrow to go back!
